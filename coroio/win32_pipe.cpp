@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #ifdef _WIN32
 #include <windows.h>
 #include <io.h>

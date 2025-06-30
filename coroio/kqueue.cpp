@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #if defined(__APPLE__) || defined(__FreeBSD__)
 #include <system_error>
 #include "kqueue.hpp"

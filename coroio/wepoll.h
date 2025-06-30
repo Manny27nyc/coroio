@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*
  * wepoll - epoll for Windows
  * https://github.com/piscisaureus/wepoll

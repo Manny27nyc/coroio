@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #if defined(__linux__) || defined(_WIN32)
 #include "epoll.hpp"
 

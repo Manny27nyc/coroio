@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #include "coroio/resolver.hpp"
 #include <coroio/all.hpp>
 

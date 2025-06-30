@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #include "resolver.hpp"
 #include "socket.hpp"
 #include "sockutils.hpp"

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #include <coroio/all.hpp>
 
 #include <signal.h>

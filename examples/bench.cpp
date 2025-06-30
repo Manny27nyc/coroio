@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #if defined(__APPLE__)
 #define _DARWIN_UNLIMITED_SELECT
 #endif
